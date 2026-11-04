@@ -1,0 +1,9 @@
+{
+  "appId": "com.arul.neucalc",
+  "appName": "Neu Calculator",
+  "webDir": "www",
+  "backgroundColor": "#eff3f9",
+  "android": {
+    "allowMixedContent": false
+  }
+}
